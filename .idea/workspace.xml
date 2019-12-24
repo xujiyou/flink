@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cd9064b-5a78-492f-891b-39cdbcff90f9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1V8QCq5DQTXTjtOZTpKrGsX0XGu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn archetype:generate \     -DarchetypeGroupId=org.apache.flink \     -DarchetypeArtifactId=flink-quickstart-java \     -DarchetypeVersion=1.9.0 \     -DgroupId=wiki-edits \     -DartifactId=wiki-edits \     -Dversion=0.1 \     -Dpackage=wikiedits \     -DinteractiveMode=false" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.FollowerGraph">
+    <configuration name="FollowerGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="work.xujiyou.flink.graph.FollowerGraph" />
+      <module name="flink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="work.xujiyou.flink.graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocketWindowWordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="work.xujiyou.flink.SocketWindowWordCount" />
+      <module name="flink" />
+      <option name="PROGRAM_PARAMETERS" value="--port 9000" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="work.xujiyou.flink.graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WikipediaAnalysis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="work.xujiyou.flink.WikipediaAnalysis" />
+      <module name="flink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="work.xujiyou.flink.graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SocketWindowWordCount" />
+      <item itemvalue="Application.WikipediaAnalysis" />
+      <item itemvalue="Application.FollowerGraph" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FollowerGraph" />
+        <item itemvalue="Application.SocketWindowWordCount" />
+        <item itemvalue="Application.WikipediaAnalysis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cd9064b-5a78-492f-891b-39cdbcff90f9" name="Default Changelist" comment="" />
+      <created>1576632117050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576632117050</updated>
+      <workItem from="1576632121409" duration="5279000" />
+      <workItem from="1576806495318" duration="683000" />
+      <workItem from="1576807218887" duration="10535000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1576818102032">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1576818102032" />
+    <state x="528" y="260" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576806633539">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="528" y="260" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1576806633539" />
+    <state x="375" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1576812464992">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="375" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1576812464992" />
+    <state width="1636" height="276" key="GridCell.Tab.0.bottom" timestamp="1576834179227">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="276" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1576834179227" />
+    <state width="1636" height="276" key="GridCell.Tab.0.bottom/44.23.1636.1027@44.23.1636.1027" timestamp="1576817088441" />
+    <state width="1636" height="276" key="GridCell.Tab.0.center" timestamp="1576834179226">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="276" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1576834179226" />
+    <state width="1636" height="276" key="GridCell.Tab.0.center/44.23.1636.1027@44.23.1636.1027" timestamp="1576817088440" />
+    <state width="1636" height="276" key="GridCell.Tab.0.left" timestamp="1576834179226">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="276" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1576834179226" />
+    <state width="1636" height="276" key="GridCell.Tab.0.left/44.23.1636.1027@44.23.1636.1027" timestamp="1576817088440" />
+    <state width="1636" height="276" key="GridCell.Tab.0.right" timestamp="1576834179226">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="276" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1576834179226" />
+    <state width="1636" height="276" key="GridCell.Tab.0.right/44.23.1636.1027@44.23.1636.1027" timestamp="1576817088441" />
+  </component>
+</project>
