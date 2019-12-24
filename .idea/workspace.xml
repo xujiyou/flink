@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cd9064b-5a78-492f-891b-39cdbcff90f9" name="Default Changelist" comment="" />
+    <list default="true" id="1cd9064b-5a78-492f-891b-39cdbcff90f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/jiyouxu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flink.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/work/xujiyou/flink/SocketWindowWordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/work/xujiyou/flink/WikipediaAnalysis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/work/xujiyou/flink/graph/ElasticSearchDataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/work/xujiyou/flink/graph/FollowerGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/flink.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/work/xujiyou/flink/SocketWindowWordCount$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/work/xujiyou/flink/SocketWindowWordCount$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/work/xujiyou/flink/SocketWindowWordCount$WordWithCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/work/xujiyou/flink/SocketWindowWordCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/work/xujiyou/flink/WikipediaAnalysis$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/work/xujiyou/flink/WikipediaAnalysis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/work/xujiyou/flink/graph/ElasticSearchDataSource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/work/xujiyou/flink/graph/FollowerGraph$SSSPCombiner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/work/xujiyou/flink/graph/FollowerGraph$SSSPComputeFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/work/xujiyou/flink/graph/FollowerGraph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/flink-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/original-flink-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +55,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1V8QCq5DQTXTjtOZTpKrGsX0XGu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,6 +74,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
@@ -126,11 +170,24 @@
       <workItem from="1576632121409" duration="5279000" />
       <workItem from="1576806495318" duration="683000" />
       <workItem from="1576807218887" duration="10535000" />
+      <workItem from="1577178750522" duration="257000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1577178866819</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577178866819</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
     <state x="653" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1576818102032">
@@ -145,6 +202,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="375" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1576812464992" />
+    <state x="426" y="40" key="CommitChangelistDialog2" timestamp="1577178866346">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="426" y="40" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1577178866346" />
     <state width="1636" height="276" key="GridCell.Tab.0.bottom" timestamp="1576834179227">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -165,5 +226,9 @@
     </state>
     <state width="1636" height="276" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1576834179226" />
     <state width="1636" height="276" key="GridCell.Tab.0.right/44.23.1636.1027@44.23.1636.1027" timestamp="1576817088441" />
+    <state x="440" y="246" key="Vcs.Push.Dialog.v2" timestamp="1577178873031">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="246" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1577178873031" />
   </component>
 </project>
