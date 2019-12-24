@@ -165,6 +165,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="550" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577179346007">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="550" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1577179346007" />
     <state x="653" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1576818102032">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -177,10 +181,14 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="375" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1576812464992" />
-    <state x="426" y="40" key="CommitChangelistDialog2" timestamp="1577179106211">
+    <state x="426" y="40" key="CommitChangelistDialog2" timestamp="1577179317062">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="426" y="40" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1577179106211" />
+    <state x="426" y="40" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1577179317062" />
+    <state x="168" y="79" key="DiffContextDialog" timestamp="1577179330442">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="168" y="79" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1577179330442" />
     <state width="1636" height="276" key="GridCell.Tab.0.bottom" timestamp="1576834179227">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -201,9 +209,9 @@
     </state>
     <state width="1636" height="276" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1576834179226" />
     <state width="1636" height="276" key="GridCell.Tab.0.right/44.23.1636.1027@44.23.1636.1027" timestamp="1576817088441" />
-    <state x="440" y="246" key="Vcs.Push.Dialog.v2" timestamp="1577179108000">
+    <state x="440" y="246" key="Vcs.Push.Dialog.v2" timestamp="1577179342561">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="246" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1577179108000" />
+    <state x="440" y="246" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1577179342561" />
   </component>
 </project>
